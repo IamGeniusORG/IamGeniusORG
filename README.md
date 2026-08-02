@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tanmay 👋 <br/> aka Teddy</h1>
 
 <p align="center">
-  <b>B.Tech Student · CSE (AI/ML) · Python Developer · Game Dev · Content Creator</b>
+  <b>B.Tech Student · CSE (AI/ML) · Full Stack Developer · Game Dev · Content Creator</b>
 </p>
 
 <p align="center">
