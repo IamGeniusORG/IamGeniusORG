@@ -1,23 +1,64 @@
-# Hi there, I'm Tanmay (aka Teddy) 👋
+<h1 align="center">Hi there, I'm Tanmay 👋 <br/> aka Teddy</h1>
 
-Welcome to my official and permanent GitHub profile! 
+<p align="center">
+  <b>B.Tech Student · CSE (AI/ML) · Python Developer · Game Dev · Content Creator</b>
+</p>
 
-##  About Me
-I'm a 20-year-old B.Tech student from India, currently in my 5th semester majoring in Computer Science and Engineering (AIML). I'm passionate about software development and spend a lot of my time coding in Python, diving into Database Management Systems (DBMS), and studying Computer Organization and Architecture (COA). 
+<p align="center">
+  <a href="mailto:tanmaydey005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tanmaydey005%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-When I'm not grinding through college coursework or writing code, I'm usually gaming or working on my YouTube channel, Blox2Build.
+---
 
-##  The "New Account" Story 
-If you are wondering why this account looks so fresh, here is the full transparency: **this is my second and permanent GitHub account.**
+### 🧑‍💻 About Me
 
-My original account was abruptly suspended after I uploaded my very first project—a game I built from scratch. I was so excited to share it that I uploaded the compiled Android (`.apk`) and Windows (`.exe`) binaries directly to the repository. Unfortunately, doing that triggered GitHub's automated security filters for violating their Terms of Service regarding executable files. 
+- 🎓 20-year-old B.Tech student from India, currently in my **5th semester**, majoring in **Computer Science & Engineering (AIML)**
+- 💻 Deep into **Python**, **Database Management Systems (DBMS)**, and **Computer Organization & Architecture (COA)**
+- 🎮 When I'm not coding, I'm gaming or building content for my YouTube channel, **Blox2Build**
+- 🚀 Currently building functional Python projects — most recently a **terminal-based e-commerce store**
+- 🌱 Expanding my knowledge of **AI/ML algorithms** and core CS fundamentals
+- 🕹️ On a game development journey — and learning to ship builds the *right* way (see below 👇)
 
-Lesson learned the hard way! From now on, I'll be using GitHub releases properly. This account is here to stay.
+---
 
-##  What I'm Working On
-* Building functional Python projects (like my recent terminal-based e-commerce store).
-* Expanding my knowledge in AI/ML algorithms and core computer science concepts.
-* Continuing my game development journey—and learning how to deploy them correctly!
+### 📦 A Bit of Transparency
 
-##  Let's Connect
-* **Email:** tanmaydey005@gmail.com
+This is my **second and permanent** GitHub account. My first one was suspended after I uploaded compiled `.apk` and `.exe` binaries directly into a repo for my first-ever game — which tripped GitHub's ToS filters on executable files.
+
+Lesson learned: **binaries belong in [GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github), not the repo tree.** This account is here to stay. ✅
+
+---
+
+### 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IamGeniusORG&show_icons=true&theme=default&hide_title=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamGeniusORG&layout=compact" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="left">
+  <a href="mailto:tanmaydey005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Blox2BuildOfficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tanmay-dey-500a44312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/tdteddyorg"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://portfolio-nine-steel-41.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Thanks for stopping by — ⭐ some repos if you find them useful!</i></p>
