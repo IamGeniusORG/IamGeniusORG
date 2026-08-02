@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tanmay 👋 <br/> aka Teddy</h1>
 
 <p align="center">
-  <b>B.Tech Student · CSE (AI/ML) · Full Stack Developer · Game Dev · Content Creator</b>
+  <b>B.Tech Student · CSE (AI/ML) · Full Stack Developer · Python Developer · Game Dev · Content Creator</b>
 </p>
 
 <p align="center">
@@ -15,10 +15,11 @@
 ### 🧑‍💻 About Me
 
 - 🎓 20-year-old B.Tech student from India, currently in my **5th semester**, majoring in **Computer Science & Engineering (AIML)**
-- 💻 Deep into **Python**, **Database Management Systems (DBMS)**, and **Computer Organization & Architecture (COA)**
+- 💻 Working across the stack — building both **backend logic in Python** and **full stack web projects**
+- 📚 Deep into **Database Management Systems (DBMS)** and **Computer Organization & Architecture (COA)**
 - 🎮 When I'm not coding, I'm gaming or building content for my YouTube channel, **Blox2Build**
 - 🚀 Currently building functional Python projects — most recently a **terminal-based e-commerce store**
-- 🌱 Expanding my knowledge of **AI/ML algorithms** and core CS fundamentals
+- 🌱 Expanding my knowledge of **AI/ML algorithms**, full stack development, and core CS fundamentals
 - 🕹️ On a game development journey — and learning to ship builds the *right* way (see below 👇)
 
 ---
@@ -35,19 +36,15 @@ Lesson learned: **binaries belong in [GitHub Releases](https://docs.github.com/e
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IamGeniusORG&show_icons=true&theme=default&hide_title=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamGeniusORG&layout=compact" />
-</p>
+> ⚠️ Swap/add badges above to match your actual stack (e.g. React, Node.js, MongoDB) — I added common full stack basics as a starting point.
 
 ---
 
