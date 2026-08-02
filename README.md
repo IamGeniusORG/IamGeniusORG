@@ -44,7 +44,6 @@ Lesson learned: **binaries belong in [GitHub Releases](https://docs.github.com/e
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-> ⚠️ Swap/add badges above to match your actual stack (e.g. React, Node.js, MongoDB) — I added common full stack basics as a starting point.
 
 ---
 
