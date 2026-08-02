@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 20-year-old B.Tech student from India, currently in my **5th semester**, majoring in **Computer Science & Engineering (AIML)**
+- 🎓 20-year-old B.Tech student from India, currently in **3rd Year**, majoring in **Computer Science & Engineering (AIML)**
 - 💻 Working across the stack — building both **backend logic in Python** and **full stack web projects**
 - 🎮 When I'm not coding, I'm gaming or building content for my YouTube channel, **Blox2Build**
 - 🚀 Currently building functional Python projects along different other programming languages — most recently a **Snaptube Clone**
