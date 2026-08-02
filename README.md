@@ -27,7 +27,7 @@
 
 This is my **second and permanent** GitHub account. My first one was suspended after I uploaded compiled `.apk` and `.exe` binaries directly into a repo for my first-ever game — which tripped GitHub's ToS filters on executable files.
 
-Lesson learned: **binaries belong in [GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github), not the repo tree.** This account is here to stay. ✅
+Lesson learned: This account is here to stay. ✅
 
 ---
 
