@@ -16,7 +16,6 @@
 
 - 🎓 20-year-old B.Tech student from India, currently in my **5th semester**, majoring in **Computer Science & Engineering (AIML)**
 - 💻 Working across the stack — building both **backend logic in Python** and **full stack web projects**
-- 📚 Deep into **Database Management Systems (DBMS)** and **Computer Organization & Architecture (COA)**
 - 🎮 When I'm not coding, I'm gaming or building content for my YouTube channel, **Blox2Build**
 - 🚀 Currently building functional Python projects — most recently a **terminal-based e-commerce store**
 - 🌱 Expanding my knowledge of **AI/ML algorithms**, full stack development, and core CS fundamentals
