@@ -19,7 +19,7 @@
 - 🎮 When I'm not coding, I'm gaming or building content for my YouTube channel, **Blox2Build**
 - 🚀 Currently building functional Python projects along different other programming languages — most recently a **Snaptube Clone**
 - 🌱 Expanding my knowledge of **AI/ML algorithms**, full stack development, and core CS fundamentals
-- 🕹️ On a game development journey and a mission to conquer DSA
+- 🕹️ On a game development journey and a mission to conquer Data Structures and Algorithms
 
 ---
 
@@ -27,7 +27,7 @@
 
 This is my **second and permanent** GitHub account. My first one was suspended after I uploaded compiled `.apk` and `.exe` binaries directly into a repo for my first-ever game — which tripped GitHub's ToS filters on executable files.
 
-Lesson learned. This account is here to stay. ✅
+Lesson learned! This account is here to stay. ✅
 
 ---
 
